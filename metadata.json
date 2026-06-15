@@ -1,0 +1,6 @@
+{
+  "name": "GymGuru",
+  "description": "Premium Gym Workout Exercise and Diet Planner App with weight charts, calculators, progress trackers, and notification alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
